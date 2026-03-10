@@ -1,0 +1,9 @@
+{
+    "model": "baseline_logistic_regression",
+    "image_size": [
+        64,
+        64
+    ],
+    "accuracy": 0.4085411009627253,
+    "macro_f1": 0.3989282978766293
+}
