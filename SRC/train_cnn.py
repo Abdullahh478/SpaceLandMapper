@@ -145,6 +145,8 @@ def main():
     })
     predictions_df.to_csv(CNN_DIR / "predictions.csv", index=False)
 
+    torch.save(model.state_dict(), CNN_DIR / "cnn_model.pth")
+
     plt.figure(figsize=(8, 6))
     plt.imshow(cm)
     plt.title("CNN Confusion Matrix")
@@ -158,6 +160,7 @@ def main():
     print("Saved:")
     print(CNN_DIR / "metrics.json")
     print(CNN_DIR / "predictions.csv")
+    print(CNN_DIR / "cnn_model.pth")
     print(CNN_DIR / "confusion_matrix.png")
     print(f"Accuracy: {accuracy:.4f}")
     print(f"Macro F1: {macro_f1:.4f}")
