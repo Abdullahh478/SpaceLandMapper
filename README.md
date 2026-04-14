@@ -85,8 +85,8 @@ Possible future improvements include:
 
 ## Authors
 
-SpaceLandMapper project team.
-Abdullah Hassan
-Altamash Khan
-Hamzah Kounane
-Mishal Zahra
+**SpaceLandMapper Project Team**
+- **Abdullah Hassan** — Team Leader / Lead Data and Model Engineer
+- **Altamash Khan** — Dashboard and Evaluation Lead
+- **Hamzah Kounane** — Data Preprocessing and Quality Specialist
+- **Mishal Zahra** — Research, Documentation and Reproducibility Lead
