@@ -86,3 +86,7 @@ Possible future improvements include:
 ## Authors
 
 SpaceLandMapper project team.
+Abdullah Hassan
+Altamash Khan
+Hamzah Kounane
+Mishal Zahra
