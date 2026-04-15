@@ -44,8 +44,13 @@ The CNN was selected as the final model because it achieved better performance t
 
 ```powershell
 .venv\Scripts\Activate
+```
 
+### 2. Install dependencies
+
+```bash
 pip install -r requirements.txt
+```
 
 ```
 
