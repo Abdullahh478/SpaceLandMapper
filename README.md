@@ -52,15 +52,13 @@ The CNN was selected as the final model because it achieved better performance t
 pip install -r requirements.txt
 ```
 
-```
-
-### Start the Streamlit dashboard
+### 3. Start the Streamlit dashboard
 
 ```bash
-streamlit run Dashboard/app.py
+python -m streamlit run Dashboard/app.py
 ```
 
-### Optional: Retrain the CNN model
+### 4. Optional: Retrain the CNN model
 
 Run this only if you want to regenerate the trained model and output files.
 
