@@ -40,6 +40,11 @@ The CNN was selected as the final model because it achieved better performance t
 
 ## How to Run
 
+### 1. Activate the virtual environment (Windows PowerShell)
+
+```powershell
+.venv\Scripts\Activate
+
 ### Install dependencies
 
 ```bash
